@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'am currently working on : Web Development<br><br>🌱 I'am currently learning : JS<br><br>💬 Ask me anything about Web Development<br><br>👀 I am currently seeking clients to design their websites.<br><br>📧 Contact : codingwithali.com@gmail.com
+🔭 I'am currently working on : Web Development<br><br>💬 Ask me anything about Web Development<br><br>👀 I am currently seeking clients to design their websites.<br><br>📧 Contact : codingwithali.com@gmail.com
 
 
 ## 🌐 Socials:
